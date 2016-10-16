@@ -7,6 +7,7 @@ keywords: markdown syntax
 ---
 
 # introduction of Github Flavored Markdown
+
 Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 ## Syntax guide
@@ -14,6 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling all forms of writin
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
 ### Text & Emphasis
+
 >\*\*xxxx\*\* make some words **blod**
 
 >\*yyyy\* make some words *italic*
@@ -23,20 +25,25 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 
 
 ### Headers & Quotes
+
 >#space=h1
 
 >#######space=h6
 
 \>this is a quotes
+
 >this is a Quotes
 
 ### Lists
+
 #### Ordered
+
 >\1. itemA
 
 1. itemA
 
 #### Unordered
+
 >\- itemB
 
 - itemB
@@ -53,6 +60,7 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
   * itemD
 
 ### Image & Links
+
 If you want to embed images, this is how you do it:
 
 >\!\[title](https://octodex.github.com/images/yaktocat.png)
@@ -91,6 +99,7 @@ I think you should use an
 `<addr>` element here instead.
 
 ### Extras
+
 >\- [x] This is a complete item
 
 >\- [ ] This is an incomplete item
@@ -99,10 +108,17 @@ I think you should use an
 - [ ] This is an incomplete item
 
 ### Tables
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+---
+
+GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
+
+Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
 
 ### Strikethrough
 
