@@ -3,7 +3,7 @@ layout: post
 title: gitgub markdown
 categories: markdown
 description: description and syntax of git markdown
-keywords: markdown syntax
+keywords: markdown, syntax
 ---
 
 # introduction of Github Flavored Markdown
@@ -17,17 +17,12 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 ### Text & Emphasis
 
 >\*\*xxxx\*\* make some words **blod**
-
 >\*yyyy\* make some words *italic*
-
 >'*' = '_'
-
-
 
 ### Headers & Quotes
 
 >#space=h1
-
 >#######space=h6
 
 \>this is a quotes
@@ -53,7 +48,6 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 * itemC
 
 >\* itemC
-
 >[Tab]\* itemD
 
 * itemC
@@ -64,7 +58,6 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 If you want to embed images, this is how you do it:
 
 >\!\[title](https://octodex.github.com/images/yaktocat.png)
-
 >Format: \!\[Alt Text](url)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
@@ -77,9 +70,7 @@ http://github.com - automatic!
 
 ### Code & Inline code
 >\`\`\`perl/python/shell ...
-
 >xxx
-
 >\`\`\`
 
 ```perl
@@ -92,7 +83,6 @@ while(<IN>)
 }
 ```
 >I think you should use an
-
 >\`xxxx\` element here instead.
 
 I think you should use an
@@ -101,7 +91,6 @@ I think you should use an
 ### Extras
 
 >\- [x] This is a complete item
-
 >\- [ ] This is an incomplete item
 
 - [x] This is a complete item
@@ -115,6 +104,8 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 ---
+
+# GitHub Flavored Markdown
 
 GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
 
@@ -143,9 +134,7 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 Any number that refers to an Issue or Pull Request will be automatically converted into a link.
 
 >#1
-
 >mojombo#1
-
 >mojombo/github-flavored-markdown#1
 
 ### Username @mentions
