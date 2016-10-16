@@ -1,10 +1,9 @@
-# Personal Blog
+# Xuan's Personal Blog
 
 my sperical interests is bioinformatics
 
-## linux
+## linux & shell
 linux commands, shell script, some usefull scripts
-## shell
 
 ## perl
 deal with bioinformatics files
@@ -13,5 +12,6 @@ machine learning, SVM
 ## bioinformatics software & model
 basic sofwware, install, usage, pipeline
 
-
-Refrence: [DONGChuan](http://dongchuan.github.io) [mazhuang](http://mazhuang.org) Thinks！
+--
+Power at 2016/10/16
+Refrence: [DONGChuan](http://dongchuan.github.io) &  [mazhuang](http://mazhuang.org) Thinks！
